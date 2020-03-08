@@ -196,7 +196,7 @@ We're using the `link_to` method to automatically create an HTML `a` tag. If
 you open the browser and inspect the HTML element of the link, you would see
 the following:
 
-![Link To](https://s3.amazonaws.com/flatiron-bucket/readme-lessons/link_to.png)
+![Link To](https://s3.amazonaws.corm/flatiron-bucket/readme-lessons/link_to.png)
 
 (If your browser loads a blank page, add Post.create(title: 'A lovely title',
 description: 'A superb description') to `db/seeds.rb`, run rake `db:seed`, and
